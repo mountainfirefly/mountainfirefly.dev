@@ -29,12 +29,11 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Software Developer, who loves to build things.',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'pankajdcoder@gmail.com',
+      twitter: 'mountainfirefly',
+      github: 'mountainfirefly',
+      linkedin: 'mountainfirefly',
+      stackoverflow: 'https://stackoverflow.com/users/5439331/pankaj-thakur'
     }
   }
 };
