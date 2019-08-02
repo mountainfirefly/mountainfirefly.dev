@@ -32,7 +32,7 @@ module.exports = {
       email: 'pankajdcoder@gmail.com',
       twitter: 'mountainfirefly',
       github: 'mountainfirefly',
-      linkedin: 'mountainfirefly',
+      linkedin: 'https://www.linkedin.com/in/mountainfirefly/',
       stackoverflow: 'https://stackoverflow.com/users/5439331/pankaj-thakur'
     }
   }
