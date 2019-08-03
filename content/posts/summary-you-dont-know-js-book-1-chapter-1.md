@@ -3,7 +3,7 @@ title: "Summary: You don’t know JS - Book 1, Chapter 1"
 date: "2018-09-19T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "/posts/summary-you-dont-know-js-book/"
+slug: "/posts/summary-you-dont-know-js-book-1-chapter-1/"
 category: "Javascript"
 tags:
   - "Programming"
