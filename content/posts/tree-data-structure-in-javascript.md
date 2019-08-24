@@ -10,7 +10,7 @@ tags:
   - "Javscript"
   - "Tree"
   - "Binary Search Tree"
-description: "In this I'll be explaining about Tree data structure. The main topics will be what is tree and binary search tree and how we can implement binary search tree using Javascript."
+description: "In this, I'll be explaining about Tree data structure. The main topics will be, what is a tree and binary search tree and how we can implement binary search tree using Javascript."
 ---
 
 ![Trees](/media/post6-image1.png)
