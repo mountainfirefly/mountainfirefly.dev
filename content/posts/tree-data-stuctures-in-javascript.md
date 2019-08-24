@@ -1,6 +1,6 @@
 ---
 title: "Tree Data Structure in Javascript"
-date: "2019-08-08T11:46:37.121Z"
+date: "2019-08-24T11:46:37.121Z"
 template: "post"
 draft: false
 slug: "/posts/tree-data-structure-in-javascript/"
