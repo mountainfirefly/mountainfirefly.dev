@@ -88,6 +88,8 @@ const GreetingSomeone = () => {
     </div>
   )
 }
+
+export default GreetingSomeone
 ```
 The only argument `useState` takes is initial value. Here, in the above example we have set it to empty string.
 
@@ -140,6 +142,8 @@ const Greeting = () => {
     </div>
   )
 }
+
+export default Greeting
 ```
 In the above example, we are using `useEffect` hook for access effects in the component. In `useEffect`, the first parameter is callback function and the second parameter is empty array this because we don't want it to call our callback function whenever the state changes. The `componentDidMount` method only trigger once as the component mounts so it's going to do the same thing.
 
@@ -203,10 +207,10 @@ const ResizePage = () => {
 
   useEffect(() => {
     // Subcribing to resize listener
-    window.addEventListener("resize", handleResize);
+    window.addEventListener("resize", handleResize)
     return () => {
       // Unsubcribing to resize listener
-      window.removeEventListener("resize", this.handleResize);
+      window.removeEventListener("resize", handleResize)
     }
   })
 
