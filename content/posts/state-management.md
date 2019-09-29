@@ -14,7 +14,7 @@ description: "In this post, we will discuss what is state and state management a
 ---
 ![State management](/media/post11-image1.png)
 
-Before you start reading it, I just want to say, this what I think about state management personally and if want to correct anything in this article or you have any suggestions, I am happy to receive those. You can post your feedback on my Twitter post.
+Before you start reading it, I just want to say, this what I think about state management personally and if want to correct anything in this article or you have any suggestions, I am happy to receive those. You can post your feedback on my Twitter [post](https://twitter.com/mountainfirefly/status/1178303257766055936).
 
 ### What is State?
 The state is all the information that is retrained by your application, often concerning previous events or interaction. The application is conceived of as acting by executing methods/functions that change the current state to another state.
