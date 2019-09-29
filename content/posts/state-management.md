@@ -1,5 +1,5 @@
 ---
-title: "State Management"
+title: "State management"
 date: "2019-09-29T11:46:37.121Z"
 template: "post"
 draft: false
@@ -12,7 +12,7 @@ tags:
   - "Management"
 description: "In this post, we will discuss what is state and state management and why it is important and what the tools/packages out there to manage state in Javascript applications."
 ---
-![State Management](/media/post11-image1.png)
+![State management](/media/post11-image1.png)
 
 Before you start reading it, I just want to say, this what I think about state management personally and if want to correct anything in this article or you have any suggestions, I am happy to receive those. You can post your feedback on my Twitter post.
 
@@ -23,7 +23,7 @@ For example, a user has landed on your application and suppose your application 
 
 Most people think that state is only used by the react/redux applications because there they see the term `state` but that is not true, the state can be part of any programming language applications as long as it let the user interact with it.
 
-### What is State Management?
+### What is State management?
 Definition of State Management refers to the management of the state of one or more user interfaces controls like text fields, buttons, radio buttons, checkboxes, models, etc. in the graphic user interface.
 
 State management is a form data-structure that you can read and write to. It makes your invisible state visible for you to work with.
