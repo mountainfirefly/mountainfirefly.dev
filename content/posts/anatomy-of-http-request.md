@@ -1,6 +1,6 @@
 ---
 title: "Anatomy of HTTP Request"
-date: "2019-09-08T11:46:37.121Z"
+date: "2019-10-20T11:46:37.121Z"
 template: "post"
 draft: false
 slug: "/posts/anatomy-of-http-request/"
