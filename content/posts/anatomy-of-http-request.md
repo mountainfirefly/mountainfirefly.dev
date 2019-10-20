@@ -4,7 +4,7 @@ date: "2019-10-20T11:46:37.121Z"
 template: "post"
 draft: false
 slug: "/posts/anatomy-of-http-request/"
-category: "Docker"
+category: "Networking"
 tags:
   - "Programming"
   - "Javscript"
