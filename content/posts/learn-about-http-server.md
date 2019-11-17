@@ -1,6 +1,6 @@
 ---
 title: "Learn about HTTP server"
-date: "2019-11-3T11:46:37.121Z"
+date: "2019-11-03T11:46:37.121Z"
 template: "post"
 draft: false
 slug: "/posts/learn-about-http-server/"
