@@ -1,6 +1,6 @@
 ---
 title: "Learn about the Express framework"
-date: "2019-12-1T11:46:37.121Z"
+date: "2019-12-01T11:46:37.121Z"
 template: "post"
 draft: false
 slug: "/posts/learn-about-the-express-framework/"
