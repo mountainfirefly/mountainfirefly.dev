@@ -12,21 +12,6 @@ Professionally, I am a full-Stack developer with 3+ years of experience. Current
 - GIT version control system
 
 ##Project Highlights
-###Crown
-CrownWorld wide handles relocations, wine cellars, World mobility, Fine arts and Record management
-- Experience in creating a web application for customers using ReactJS, which would allow users to add services, expenses, bank accounts(Customer details).
-- **Responsibilities**: Collaborating with team members, Requirement gathering, project estimation, coding and implementation.
-- Planning and Strategy and updating status reports through daily Scrum Meeting and Jira.
-- **Environment**: ReactJs, React-native, Redux, Bootstrap and HTML & CSS.
-- **URL**: https://customer.crownworldmobility.com/
-
-###Crown Mobile Application
-Experience in Creating a mobile app for customers using ReactJS(React
-Native)which would allow clients to add services, expenses, bank accounts(Customer
-details).
-- **Responsibilities**: Planning and Strategy and updating status reports through daily Scrum Meeting and Jira
-- **Environment**: React-native, Redux.
-
 ###KLP
 KLP is a public platform where all stakeholders involved in public education
 participate and help ensure better schools and education for all children in
