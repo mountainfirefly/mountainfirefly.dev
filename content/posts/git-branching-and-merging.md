@@ -18,7 +18,7 @@ description: "In this post will be learning about all the necessary features of 
 ---
 ![GitHUB](/media/post18-image1.png)
 
-In my last post, I have covered the core concepts of git and introduction to basic git commands you can check it out [here](https://mountainfirefly.dev/posts/learn-about-git/).
+In my last post, I have covered the core concepts of git and introduction to the basic git commands you can check it out [here](https://mountainfirefly.dev/posts/learn-about-git/).
 
 In this post will be learning about all the necessary features of git that are required for git branching and merging and those are the following:
 - Set up a git repository to work with.
