@@ -5,13 +5,23 @@ template: "page"
 
 Hey, I come from a small village called Dasehra in Himachal Pradesh, India. I grew up playing with tree, farms, cows, and mountains as a simple village boy. When people ask me what you wanna do in life I would say I want to become an Engineer.
 
-Professionally, I am a full-Stack developer with 3+ years of experience. Currently, I am working with Concinnity Media technologies, a startup based out of Mumbai where we develop mobile apps and websites for the world’s leading agencies and clients.
+Professionally, I am a full-Stack developer with 6+ years of experience. I design and build cutting-edge solutions for customers worldwide and ensure the architecture meets the business requirement and I have a problem-solving mindset working in an agile environment.
 
 ##Skills
-- Proficient ReactJs, React-Native, Redux, Javascript, HTML, CSS, Material-Design, Elasticsearch and MongoDB.
+- Proficient in HTML, CSS, Bootstrap, Material Design, Javascript, ReactJS, React-Native, NodeJS, MongoDB, NextJs, and Elasticsearch.
 - GIT version control system
 
 ##Project Highlights
+###Line / Line Financial
+It is a mobile application that helps working-class Americans get Cash
+Now Pay Later and other tools to live life uninterrupted.
+
+###Elastic CMS / Mindgrep Technologies
+It is a backend solution (headless CMS) for creating web apps and mobile apps. Provides a self-configured setup for schema, relationships, search/analytics, and basic UI fields and auto-generate APIs with validation, admin user interface for data administration
+
+###Builder’s Deck (B2B) / Mindgrep Technologies
+It is an eCommerce platform for selling different products to other businesses in large amounts and provides features like RFQ (Request for quotation).
+
 ###KLP
 KLP is a public platform where all stakeholders involved in public education
 participate and help ensure better schools and education for all children in
